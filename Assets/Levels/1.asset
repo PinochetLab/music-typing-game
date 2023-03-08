@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e297c1e1a5fe4a4e92c4a5d96635936, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  wis:
+  - word: dont
+    startTime: 4.7
+  - word: let
+    startTime: 5.4
+  - word: me
+    startTime: 6
+  - word: down
+    startTime: 6.4
+  - word: '{string}'
+    startTime: 10.8
+  - word: dont
+    startTime: 10.9
+  - word: let
+    startTime: 11.4
+  - word: me
+    startTime: 12
+  - word: down
+    startTime: 12.5
+  - word: '{string}'
+    startTime: 17.1
+  - word: dont
+    startTime: 17.1
+  - word: let
+    startTime: 17.6
+  - word: me
+    startTime: 18
+  - word: down
+    startTime: 18.4
+  - word: '{string}'
+    startTime: 23.2
+  - word: dont
+    startTime: 23.2
+  - word: let
+    startTime: 23.7
+  - word: me
+    startTime: 24.1
+  - word: down
+    startTime: 24.5
+  - word: '{section}'
+    startTime: 27.9
+  - word: nobody
+    startTime: 28
+  - word: ever
+    startTime: 29.4
+  - word: loved
+    startTime: 30
+  - word: me
+    startTime: 30.4
+  - word: like
+    startTime: 30.8
+  - word: she
+    startTime: 31.2
+  - word: does
+    startTime: 31.6
+  - word: '{string}'
+    startTime: 34.2
+  - word: oh
+    startTime: 34.3
+  - word: she
+    startTime: 34.5
+  - word: does
+    startTime: 34.8
+  - word: yeah
+    startTime: 37.2
+  - word: she
+    startTime: 37.4
+  - word: does
+    startTime: 37.7
+  - word: '{string}'
+    startTime: 41.8
+  - word: and
+    startTime: 41.9
+  - word: if
+    startTime: 42.1
+  - word: somebody
+    startTime: 42.4
+  - word: loved
+    startTime: 43.6
+  - word: me
+    startTime: 44
+  - word: like
+    startTime: 44.2
+  - word: she
+    startTime: 44.5
+  - word: do
+    startTime: 44.7
+  - word: me
+    startTime: 44.9
+  - word: '{string}'
+    startTime: 47.9
+  - word: oh
+    startTime: 48
+  - word: she
+    startTime: 48.3
+  - word: do
+    startTime: 48.5
+  - word: me
+    startTime: 48.7
+  - word: yes
+    startTime: 50.8
+  - word: she
+    startTime: 51
+  - word: does
+    startTime: 51.2
+  - word: '{section}'
+    startTime: 56.2
+  - word: dont
+    startTime: 56.2
+  - word: let
+    startTime: 56.8
+  - word: me
+    startTime: 57.4
+  - word: down
+    startTime: 57.7
+  - word: '{string}'
+    startTime: 62.3
+  - word: dont
+    startTime: 62.3
+  - word: let
+    startTime: 62.9
+  - word: me
+    startTime: 63.5
+  - word: down
+    startTime: 63.8
+  - word: '{string}'
+    startTime: 68.5
+  - word: dont
+    startTime: 68.5
+  - word: let
+    startTime: 69.1
+  - word: me
+    startTime: 69.7
+  - word: down
+    startTime: 70
+  - word: '{string}'
+    startTime: 74.8
+  - word: dont
+    startTime: 74.8
+  - word: let
+    startTime: 75.4
+  - word: me
+    startTime: 76
+  - word: down
+    startTime: 76.3
